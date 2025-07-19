@@ -4,14 +4,20 @@ $3000 Senior Assistance Program: How to Apply?
    :msvalidate.01: BFF40CA8D143BAFDF58796E4E025829B
    :google-site-verification: VD279M_GngGCAqPG6jAJ9MtlNRCU9GusRHzkw__wRkA
    :description: The $3000 Senior Assistance Program offers financial aid options for seniors through SSI, SNAP, LIHEAP, and Medicare. Apply via SSA.gov or Benefits.gov.
-
+.. image:: blank.png
+   :width: 350px
+   :align: center
+   :height: 100px
 .. image:: apply-now.png
    :width: 350px
    :align: center
    :height: 100px
    :alt: hp.com/setup
    :target: https://www.google.com/url?q=https%3A%2F%2Fbcetsamba.in%2Fhow-to-apply-for-3000-senior-assistance-program%2F&sa=D&sntz=1&usg=AOvVaw1u4eX1uY4wuifnJc3esS6f
-   
+   .. image:: blank.png
+   :width: 350px
+   :align: center
+   :height: 100px
 
 $3000 Senior Assistance Program Overview
 ----------------------------------------

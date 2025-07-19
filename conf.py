@@ -30,7 +30,8 @@ html_meta = {
    
 }
 
-
+html_sidebars = {'**': []}
+html_title = ""
 
 
 # Add any paths that contain custom static files (such as style sheets)

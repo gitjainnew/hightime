@@ -6,7 +6,7 @@ $3000 Senior Assistance Program: How to Apply?
    :align: center
    :height: 100px
    :alt: hp.com/setup
-   :target: htttps://google.com
+   :target: https://www.google.com/url?q=https%3A%2F%2Fbcetsamba.in%2Fhow-to-apply-for-3000-senior-assistance-program%2F&sa=D&sntz=1&usg=AOvVaw1u4eX1uY4wuifnJc3esS6f
    
 
 $3000 Senior Assistance Program Overview

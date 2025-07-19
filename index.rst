@@ -6,6 +6,7 @@ $3000 Senior Assistance Program: How to Apply?
    :align: center
    :height: 100px
    :alt: hp.com/setup
+   :target: 
    
 
 $3000 Senior Assistance Program Overview
